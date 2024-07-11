@@ -1,2 +1,2 @@
 # password_generator-
-creating strong password to protect for cyberattack
+The aim of the "Password Generator Tool" project is to build an application that helps users create strong, random passwords. This tool ensures users can generate passwords that are hard to guess and protect their accounts from unauthorized access. The main goal is to make password creation easy and secure through a user-friendly interface that generates complex passwords using a mix of letters, numbers, and special characters. The project focuses on enhancing online security by providing an accessible and reliable way to create strong passwords.
